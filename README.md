@@ -2,6 +2,8 @@
 
 A customizable password generator built with React and Tailwind CSS. Users can select password length and choose to include uppercase, lowercase, numbers, and symbols. Features real-time strength indicator and clipboard copy functionality.
 
+![Password Generator UI](./password_generator_ui.png)
+
 # Features
 - Adjustable password length (4–20 characters)
 - Optional character types: uppercase, lowercase, numbers, symbols
